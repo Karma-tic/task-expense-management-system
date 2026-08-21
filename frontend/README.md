@@ -1,1 +1,1 @@
-Frontend application 
+Frontend application
